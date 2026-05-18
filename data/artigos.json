@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "tag": "Nutrição",
+    "titulo": "Guia Alimentar para a população Brasileira",
+    "descricao": "o Guia Alimentar para a População Brasileira, publicado em 2006, apresentou as primeiras diretrizes alimentares oficiais para a nossa população.",
+    "imagem": "/assets/comida-saudavel.png",
+    "link": "https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf"
+  },
+  {
+    "id": 2,
+    "tag": "Nutrição",
+    "titulo": "Alimentação saudável: um guia para melhorar seus hábitos",
+    "descricao": "Saiba o que é uma alimentação saudável, entenda sua importância e como adotá-la no dia a dia.",
+    "imagem": "/assets/prato-colorido-1559760405458_v2_1x1-800x445.jpg",
+    "link": "https://pactocontrafome.org/alimentacao-saudavel/"
+  },
+  {
+    "id": 3,
+    "tag": "Movimento",
+    "titulo": "Guia de Atividade Física para a população Brasileira",
+    "descricao": "Os exercícios físicos também são exemplos de atividades físicas, mas se diferenciam por serem atividades planejadas.",
+    "imagem": "/assets/corrida.png",
+    "link": "https://bvsms.saude.gov.br/bvs/publicacoes/guia_atividade_fisica_populacao_brasileira.pdf"
+  },
+  {
+    "id": 4,
+    "tag": "Movimento",
+    "titulo": "Exercícios de Musculação",
+    "descricao": "Encontre exercícios de musculação específicos para treinar cada grupo muscular.",
+    "imagem": "/assets/supino.png",
+    "link": "https://www.hipertrofia.org/blog/exercicios-de-musculacao/"
+  },
+  {
+    "id": 5,
+    "tag": "Saúde Mental",
+    "titulo": "Regulação Emocional",
+    "descricao": "Aprendendo a lidar melhor com as emoções",
+    "imagem": "/assets/r-emocional.png",
+    "link": "https://blog.agendarconsulta.com/regulacao-emocional-o-que-e/"
+  },
+  {
+    "id": 6,
+    "tag": "Saúde Mental",
+    "titulo": "Higiene do Sono",
+    "descricao": "10 Estratégias Essenciais Para Dormir Melhor e Proteger Sua Saúde Mental.",
+    "imagem": "/assets/sleep.png",
+    "link": "https://www.pontualpsiquiatria.com.br/post/higiene-do-sono"
+  }
+  
+]
