@@ -1,5 +1,3 @@
-console.log("aaaaaaaaaa")
-
 
 fetch('../data/artigos.json')
 .then(response => response.json())
